@@ -1,5 +1,4 @@
-# ScratchBarQuotes
-
+# scratchbar-memes
 Scratch吧语录
 
 ## Rules
